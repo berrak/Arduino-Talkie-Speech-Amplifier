@@ -90,6 +90,7 @@ I appreciate your support.
 ## FAQ
 
 **Q**: Can I use a microphone with the speech amplifier without the ESP32 TinyPICO?
+
 **A**: Theoretically, yes, but this is discouraged for several reasons. It's essential to keep the distance short between the microphone and amplifier input. All amplified system is susceptible to picking up noise from the environment, noise from built-in microphone amplifier, and ground-current loops. A breadboard setup is not recommended, which *may* result in unwanted buzzing or humming or even an audio positive audio feedback loop with high pitch sound in the speakers. 
 
 ## Credits
