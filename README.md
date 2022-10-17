@@ -38,6 +38,7 @@ The `Arduino Talkie Speech Amplifier` uses Texas Instrument's LM4875 chip and am
 - Only GPIO25 (analog in), GPI26 (volume control), GND, and 3.3V pins connect electrically to the Amplifier shield.
 
 ![voice-spectrum](./images/voice-spectrum.png)
+
 *Analyzing the spectral voice output reveals that amplifying higher frequencies is
 wasteful and does not add to the final voice output. The filter cut higher frequencies.*
 
