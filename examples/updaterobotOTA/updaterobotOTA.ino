@@ -84,17 +84,17 @@ void loop()
     // Comment/uncomment each section in turn
     //---------------------------------------
     // One version of code
-//    tp.DotStar_SetPixelColor( 0, 255, 0 );  // Fix green 
-//    voice.say(spc_GOOD);
-//    voice.say(spc_MORNING);
-//    delay(2500);
+    tp.DotStar_SetPixelColor( 0, 255, 0 );  // Fix green 
+    voice.say(spc_GOOD);
+    voice.say(spc_MORNING);
+    delay(2500);
 
     // New version of code 
- tp.DotStar_SetPixelColor( 255, 0, 0 );  // Fix red
- voice.say(sp2_DANGER);
- voice.say(sp2_DANGER);
- voice.say(sp2_RED);
- voice.say(sp2_ALERT);
- delay(2500);
+//  tp.DotStar_SetPixelColor( 255, 0, 0 );  // Fix red
+//  voice.say(sp2_DANGER);
+//  voice.say(sp2_DANGER);
+//  voice.say(sp2_RED);
+//  voice.say(sp2_ALERT);
+//  delay(2500);
 
 }
