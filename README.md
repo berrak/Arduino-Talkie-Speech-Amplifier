@@ -81,9 +81,9 @@ Other usages than robotics may be a customized keyboard pad with voice reply for
 
 ## Purchase the board
 
-The `Arduino Talkie Speech Amplifier` board is available only fully assembled. `Tindie` has all the latest designed boards.
+The `Arduino Talkie Speech Amplifier` board is available only fully assembled. [Tindie](https://www.tindie.com/products/28296/) has all the purchasing details.
 
-[![Tindie](./images/tindie-small.png)](https://www.tindie.com/stores/debinix/)
+[![Tindie](./images/tindie-small.png)](https://www.tindie.com/products/28296/)
 
 I appreciate your support.
 
