@@ -46,7 +46,7 @@ wasteful and does not add to the final voice output. The filter cut higher frequ
 
 For planned changes, improvements, and possible encountered issues, please visit the [Github issues tracker](https://github.com/berrak/Arduino-Talkie-Speech-Amplifier/issues).
 
-## Suggested items to add to the board
+## Recommended items to add to the board
 
 - Unexpected Maker's ESP32 TinyPICO microcontroller.
 - Female headers for ESP32 TinyPICO.
@@ -91,7 +91,7 @@ I appreciate your support.
 
 **Q**: Can I use a microphone with the speech amplifier without the ESP32 TinyPICO?
 
-**A**: Theoretically, yes, but this is discouraged for several reasons. It's essential to keep the distance short between the microphone and amplifier input. All amplified system is susceptible to picking up noise from the environment, noise from built-in microphone amplifier, and ground-current loops. A breadboard setup is not recommended, which *may* result in unwanted buzzing or humming or even an audio positive audio feedback loop with high pitch sound in the speakers. 
+**A**: Theoretically, yes, but this is discouraged for several reasons. It's essential to keep the distance short between the microphone and amplifier input. All amplified system is susceptible to picking up noise from the environment, noise from built-in microphone amplifier, and ground-current loops. A breadboard setup is not recommended, which *may* result in unwanted buzzing or humming or even an audio positive audio feedback loop with high pitch sound in the speakers. So please, use the amplifier as a shield with the other recommended [parts](https://github.com/berrak/Arduino-Talkie-Speech-Amplifier#suggested-items-to-add-to-the-board) as described above.  
 
 ## Credits
 
