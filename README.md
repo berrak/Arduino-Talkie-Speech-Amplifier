@@ -52,7 +52,7 @@ For planned changes, improvements, and possible encountered issues, please visit
 - Female headers for ESP32 TinyPICO.
 - Loudspeaker element, 8-32 Ohm.
 
-Purchase UM TinyPico `ESP32` at [Pimoroni](https://shop.pimoroni.com/products/tinypico-v2?variant=39285089534035) or [Adafruit](https://www.adafruit.com/?q=TinyPico+ESP32&sort=BestMatch). The new `ESP32S2` variant *may* work, and let me know if you try this. The `Talkie Speech Amplifier Shield` is not tested in this configuration. However, do **not** buy the new `ESP32S3` model. The chip does not have the DAC.
+Purchase UM TinyPico `ESP32` at [Pimoroni](https://shop.pimoroni.com/products/tinypico-v2?variant=39285089534035) or [Adafruit](https://www.adafruit.com/?q=TinyPico+ESP32&sort=BestMatch). The new `ESP32-S2` variant *may* work, and let me know if you try [this](https://www.adafruit.com/product/5029). The `Talkie Speech Amplifier Shield` is not tested in this configuration. However, do **not** buy the new `ESP32-S3` model. The chip does not have the DAC.
 
 ## Usage
 
