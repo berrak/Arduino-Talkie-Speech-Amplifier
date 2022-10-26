@@ -35,7 +35,7 @@ The `Arduino Talkie Speech Amplifier` uses Texas Instrument's LM4875 chip and am
 - This device comes fully assembled and tested.
 - The onboard LM4875 chip is a class AB analog amplifier (mono) with up to 750 mW output.
 - The ESP32 board powers the shield and the LM4875 with 3.3V.
-- Only GPIO25 (analog in), GPI26 (volume control), GND, and 3.3V pins connect electrically to the Amplifier shield.
+- Only GPIO25 (analog in), GPI26 (volume control), GND, and 3.3V pins connect electrically to the Amplifier shield. The remaining pins on the board are free for other usages.
 
 ![voice-spectrum](./images/voice-spectrum.png)
 
