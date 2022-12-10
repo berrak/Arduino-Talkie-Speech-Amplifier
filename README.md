@@ -49,10 +49,17 @@ For planned changes, improvements, and possible encountered issues, please visit
 ## Recommended items to add to the board
 
 - Unexpected Maker's ESP32 TinyPICO microcontroller.
-- Female headers for ESP32 TinyPICO.
+- Female stacking headers for ESP32 TinyPICO.
 - Loudspeaker element, 8-32 Ohm.
 
-Purchase UM TinyPico `ESP32` at [Adafruit](https://www.adafruit.com/?q=TinyPico+ESP32&sort=BestMatch), [Pimoroni](https://shop.pimoroni.com/products/tinypico-v2?variant=39285089534035) or at [Tindie](https://www.tindie.com/products/seonr/tinypico-v3/). The new `ESP32-S2` variant *may* work, and let me know if you try [this](https://www.adafruit.com/product/5029). The `Talkie Speech Amplifier Shield` is not *yet* tested in the S2-configuration. However, do **not** buy the new `ESP32-S3` model. The chip does not have the DAC.
+Unexpected Maker ESP32 microcontroller
+
+- ESP32 TinyPICO v3 - [Adafruit](https://www.adafruit.com/product/5028)
+- ESP32 TinyPICO v2 or v3 - [Pimoroni](https://shop.pimoroni.com/search?q=tinyPICO)
+- ESP32 TinyPICO v3 - [Lectronz](https://lectronz.com/products/tinypico-v3)
+- ESP32 TinyPICO v3 - [UM Shop](https://unexpectedmaker.com/shop/tinypico-usbc)
+
+The new `ESP32-S2` variant *may* work, and let me know if you try [this](https://www.adafruit.com/product/5029). The `Talkie Speech Amplifier Shield` is not *yet* tested in the S2 configuration. However, do **not** buy the new `ESP32-S3` model. The chip does not have the DAC.
 
 ## Usage
 
@@ -79,11 +86,12 @@ Other usages than robotics may be a customized keyboard pad with voice reply for
 * Weight: 5 grams (0.18 ounce).
 * Height: 20 mm (0.79")
 
-## Purchase the board
+## Purchase the speech audio amplifier board.
 
-The `Arduino Talkie Speech Amplifier` board is available only fully assembled. [Tindie](https://www.tindie.com/products/28296/) has all the purchasing details.
+The `Arduino Talkie Speech Amplifier` board is available fully assembled. [Tindie](https://www.tindie.com/products/28296/) and [Lectronz](https://lectronz.com/products/arduino-talkie-speech-amplifier-shield-for-esp32) have all the purchasing details.
 
-[![Tindie](./images/tindie-small.png)](https://www.tindie.com/products/28296/)
+[![Tindie](./images/tindie-small.png)](https://www.tindie.com/products/28296/) [![Lectronz](./images/github-lectronz.png)](https://lectronz.com/products/arduino-talkie-speech-amplifier-shield-for-esp32)
+
 
 I appreciate your support.
 
