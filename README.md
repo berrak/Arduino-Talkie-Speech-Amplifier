@@ -75,6 +75,8 @@ Try one of the sketches in the `example` directory, for example, my `hello.ino` 
 
 Other usages than robotics may be a customized keyboard pad with voice reply for entering a building, adding sounds to a game, which was original use in the 70s/or early 80s, or a keyboard trainer.
 
+Why not let your clock announce the time described in the [talking clock instructable](https://www.instructables.com/The-Talking-Penguin/)?
+
 **Note**: Connect 3.3V to the Amplifier pin marked `VOL` (i.e., maximum gain) if not using the second DAC to control volume.
 
 ## Specification for the Arduino Talkie Speech Amplifier v1.0.
